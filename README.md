@@ -7,3 +7,6 @@ Move - arrows on the keyboard
 Jump - Space
 
 
+![example1](1m.jpg){:height="500px" }
+
+![example2](2m.jpg){:height="500px" }
