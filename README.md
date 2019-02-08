@@ -1,4 +1,4 @@
-# Mushroom-picking-unity3d-test-game
+# Mushroom picking unity3d test game
 Mushroom picking unity3d test game
 
 The goal of the game is to collect 20 mushrooms.
